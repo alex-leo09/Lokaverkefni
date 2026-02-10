@@ -24,7 +24,7 @@ Til að hreyfa sig fram um reiti þarf að ýta á stóra rauða takkan hann mun
 
 # Lokaverkefnis myndir
 
-# Spjaldið 
+## Spjaldið 
 Hér getur þú séð fyrstu sketchið af leiknum okkar snake it or make it.
 
 ![spjaldið](Myndir/Unknown.jpeg)
