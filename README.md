@@ -28,11 +28,11 @@ Til að hreyfa sig fram um reiti þarf að ýta á stóra rauða takkan hann mun
 Hér getur þú séð fyrstu sketchið af leiknum okkar snake it or make it.
 
 ![spjaldið](Myndir/Unknown.jpeg)
-# QR kóði
+## QR kóði
 Þetta er QR kóðinn fyrir reglur leiksinns
 
 ![Qr Kóði](Myndir/QR_Code.svg)
 
-# Borðspil Layout
+## Borðspil Layout
 Hér er layout borðspilssins okkar
 ![Borðspil Layout](Myndir/Borðspil_layout_svg%20-%20VESM.svg)
