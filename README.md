@@ -9,7 +9,7 @@ Hugmyndinn okkar er borðspil sem heitir: (Snake it or make it) Þú byrjar sem 
 snáka, quiz og áskorarnir, En það eru líka til stigar sem geta hjálpað þér. Þú ert líka með stóran takka sem þú getur ýtt á, hann mun gefa þér tölu 1-6 sem þú notar til þess að fara áfram í staðinn fyrir terning.
 
 
-##Reglur
+## Reglur
 
 Reglur fyrir leikinn (Snake it or make it)
 Ef þú klárar ekki áskoruninna innan við tíman ferðu á reitin sem þú varst á.
