@@ -2,7 +2,7 @@
 
 # Nöfn höfunda:
 - Jens Snær Ómarsson
-- Alex Leó Haraldsson
+- Alexander Leó Haraldsson
 
 # Hugmynd 
 Hugmyndinn okkar er borðspil sem heitir: (Snake it or make it) Þú byrjar sem peð á byrjunnarreiti og átt að komast að toppnum en það er ekki eins létt og maður gæti haldið. Þú munt hitta fullt af hyndrumun á leið t.d 
