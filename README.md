@@ -1,4 +1,4 @@
-# Lokaverkefni
+# Lokaverkefnis myndir
 
 # Sjaldið 
 Hér getur þú séð fyrstu sketchið af leiknum okkar snake it or make it.
