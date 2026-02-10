@@ -4,4 +4,4 @@
 
 ![Qr Kóði](Myndir/QR_Code.svg)
 
-![Borðspil Layout](Myndir/Borðspil_layout_svg-VESM.svg)
+![Borðspil Layout](Myndir/Borðspil_layout_svg%20-%20VESM.svg)
