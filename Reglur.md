@@ -1,13 +1,18 @@
-1. Ef þú klárar ekki áskoruninna innan við tíman ferðu á reitin sem þú varst á.
+1.
+Ef þú klárar ekki áskoruninna innan við tíman ferðu á reitin sem þú varst á.
 
-2. Ef þú nærð alls ekki að klára áskoruninna yfir höfuð/gefst upp, þá ferðu á byrjunar reit.
+2.
+Ef þú nærð alls ekki að klára áskoruninna yfir höfuð/gefst upp, þá ferðu á byrjunar reit.
 
-3. Ef þú lendir á toppnum af snáki þarft þú að fylgja honum niður til reitsins hann byrjar á.
+3.
+Ef þú lendir á toppnum af snáki þarft þú að fylgja honum niður til reitsins hann byrjar á.
 
-4. Ef þú lendir á botnum af stiga þarft þú að fylgja honum upp til reitsins hann endar á.
+4.
+Ef þú lendir á botnum af stiga þarft þú að fylgja honum upp til reitsins hann endar á.
 
-5. Til að hreyfa sig fram um reiti þarf að ýta á stóra rauða takkan hann mun gefa þér tölu frá 1 til 6.
-    Þú hreyfir þig svo fram eins marga reiti og skjárinn sýnir.
+5.
+Til að hreyfa sig fram um reiti þarf að ýta á stóra rauða takkan hann mun gefa þér tölu frá 1 til 6.
+ Þú hreyfir þig svo fram eins marga reiti og skjárinn sýnir.
 
 6. Áhættuspil: 
 
@@ -20,16 +25,24 @@ Farðu aftiur á byrjunar reit x1.
 7. Quiz:
 
 Spurning: Hvað er höfuðborg?
+
  Kólumbíu Svar: Bogotá.
 
+
 Spurning: Hvaða land bjó til ostaskerarann?
+
  Svar: Noregur.
 
+
 Spurning: Hvað heitir borgarstjórinn á ísafyrði?
+
 Svar: Sigríður Júlía Brynleifsdóttir.
 
+
 Spurning: Í hvaða landi er Burj Khalifa?
+ 
  Svar: U.A.E/United Arab Emirates.
+
 
 8. Líkamsleg Áskorun:
 
