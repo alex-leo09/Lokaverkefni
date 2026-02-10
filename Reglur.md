@@ -17,9 +17,13 @@ Til að hreyfa sig fram um reiti þarf að ýta á stóra rauða takkan hann mun
 6. Áhættuspil: 
 
 Farðu 3 reiti áfram x2.
+
 Farðu 1 reit tilbaka x2.
+
 Farðu2 reiti áfram x2.
+
 Farðu 2 reiti tilbaka x1.
+
 Farðu aftiur á byrjunar reit x1.
 
 7. Quiz:
