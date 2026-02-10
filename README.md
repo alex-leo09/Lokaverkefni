@@ -1,4 +1,4 @@
-## Snake It Or Make It
+### Snake It Or Make It
 
 # Nöfn höfunda:
 - Jens Snær Ómarsson
