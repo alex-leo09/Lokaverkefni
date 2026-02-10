@@ -14,6 +14,7 @@ Ef þú lendir á botnum af stiga þarft þú að fylgja honum upp til reitsins 
 Til að hreyfa sig fram um reiti þarf að ýta á stóra rauða takkan hann mun gefa þér tölu frá 1 til 6.
  Þú hreyfir þig svo fram eins marga reiti og skjárinn sýnir.
 
+
 6. Áhættuspil: 
 
 Farðu 3 reiti áfram x2.
@@ -25,6 +26,7 @@ Farðu2 reiti áfram x2.
 Farðu 2 reiti tilbaka x1.
 
 Farðu aftiur á byrjunar reit x1.
+
 
 7. Quiz:
 
@@ -46,6 +48,7 @@ Svar: Sigríður Júlía Brynleifsdóttir.
 Spurning: Í hvaða landi er Burj Khalifa?
  
  Svar: U.A.E/United Arab Emirates.
+
 
 
 8. Líkamsleg Áskorun:
