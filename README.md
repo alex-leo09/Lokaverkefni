@@ -2,4 +2,4 @@
 
 ![spjaldið](./Myndir/Unknown.jpeg)
 
-![Qr Kóði](./QR_Code.svg)
+![Qr Kóði](Myndir/QR_Code.svg)
