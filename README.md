@@ -1,6 +1,6 @@
 # Lokaverkefnis myndir
 
-# Sjaldið 
+# Spjaldið 
 Hér getur þú séð fyrstu sketchið af leiknum okkar snake it or make it.
 
 ![spjaldið](Myndir/Unknown.jpeg)
