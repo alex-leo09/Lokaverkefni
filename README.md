@@ -1,3 +1,16 @@
+## Snake It Or Make It
+
+# Nöfn höfunda:
+- Jens Snær Ómarsson
+- Alexander Leó Haraldsson
+
+# Hugmynd 
+Hugmyndinn okkar er borðspil sem heitir: (Snake it or make it) Þú byrjar sem peð á byrjunnarreiti og átt að komast að toppnum en það er ekki eins létt og maður gæti haldið. Þú munt hitta fullt af hyndrumun á leið t.d 
+snáka, quiz og áskorarnir, En það eru líka til stigar sem geta hjálpað þér. Þú ert líka með stóran takka sem þú getur ýtt á, hann mun gefa þér tölu 1-6 sem þú notar til þess að fara áfram í staðinn fyrir terning.
+
+
+
+
 # Lokaverkefnis myndir
 
 # Spjaldið 
