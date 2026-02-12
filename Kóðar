@@ -1,4 +1,4 @@
-#takki og skjár/teningur
+# takki og skjár/teningur
 
 from machine import Pin, SoftI2C
 from I2C_LCD import I2cLcd
