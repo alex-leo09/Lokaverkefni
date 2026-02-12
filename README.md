@@ -35,6 +35,6 @@ Hér getur þú séð fyrstu sketchið af leiknum okkar snake it or make it.
 
 ## Borðspil Layout
 Hér er layout borðspilssins okkar
-![Borðspil Layout](Borðspil_layout_svg - VESM - 3.svg)
+![Borðspil Layout](https://github.com/alex-leo09/Lokaverkefni/blob/main/Myndir/Bor%C3%B0spil_layout_svg%20-%20VESM%20-%204.svg)
 ## 3D hlutir 
 [snákar](./Myndir/snakar.stl)
