@@ -27,7 +27,8 @@ Til að hreyfa sig fram um reiti þarf að ýta á stóra rauða takkan hann mun
 ## Spjaldið 
 Hér getur þú séð fyrstu sketchið af leiknum okkar snake it or make it.
 
-![spjaldið](Myndir/Unknown.jpeg)
+![Spjaldið](./Myndir/Unknown.jpeg)
+
 ## QR kóði
 Þetta er QR kóðinn fyrir reglur leiksinns
 
