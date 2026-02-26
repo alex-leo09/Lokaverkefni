@@ -44,3 +44,8 @@ Hér er layout borðspilssins okkar
 ## Tengingar
 Hér sérðu mynd af tengingum okkar
 [Tengingar](https://github.com/alex-leo09/Lokaverkefni/blob/main/Myndir/IMG_8997%20(2).HEIC).
+
+
+## Virkni spilsins
+Hér sérðu virkni spilsins
+[virkni spilsins] (
