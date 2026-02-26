@@ -48,4 +48,4 @@ Hér sérðu mynd af tengingum okkar
 
 ## Virkni spilsins
 Hér sérðu virkni spilsins
-[virkni spilsins] (
+[virkni spilsins] (https://youtube.com/shorts/89eotixR4XI?feature=share).
