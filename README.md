@@ -43,7 +43,7 @@ Hér er layout borðspilssins okkar
 
 ## Tengingar
 Hér sérðu mynd af tengingum okkar
-[Tengingar](./Myndir/tengingar.jpg).
+![Tengingar](./Myndir/tengingar2.jpeg)
 
 
 ## Virkni spilsins
