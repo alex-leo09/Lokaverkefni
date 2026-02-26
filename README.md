@@ -39,3 +39,8 @@ Hér er layout borðspilssins okkar
 ![Borðspil Layout](https://raw.githubusercontent.com/alex-leo09/Lokaverkefni/790cef75ae8b2e90900a11e3fbe4c4dec95ccb2b/Myndir/Bor%C3%B0spil_layout_svg%20-%20VESM%20-%205.svg)
 ## 3D hlutir 
 [snákar](./Myndir/snakar.stl)
+
+
+## Tengingar
+Hér sérðu mynd af tengingum okkar
+[Tengingar](https://github.com/alex-leo09/Lokaverkefni/blob/main/Myndir/IMG_8997%20(2).HEIC).
