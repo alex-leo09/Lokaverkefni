@@ -40,3 +40,5 @@ Svar: Sigríður Júlía Brynleifsdóttir.
 - Gerðu 10 froskahopp.
 - Gerðu 10 stjörnuhopp.
 - Gerðu 15 burpees.
+
+file:///C:/Users/Alexander/Downloads/Document.pdf
