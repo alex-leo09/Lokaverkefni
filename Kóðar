@@ -1,21 +1,28 @@
 # takki og skjár/teningur
 
+
 from machine import Pin, SoftI2C
 from I2C_LCD import I2cLcd
 import random
 import time
+from time import sleep
+from buzzer_music import music
+
 
 # I2C setup fyrir LCD
 i2c = SoftI2C(scl=Pin(13), sda=Pin(14), freq=400000)
-
+Rs = Pin(10, Pin.IN, Pin.PULL_UP)    # Segull nemi
+buzzer_pin = Pin(11, Pin.OUT)        # Passive buzzer
+Song = '0 C5 1.3 58;2.6666667461395264 C5 1.3333333730697632 58;4 G5 12 58;0 C4 1.3333333730697632 58;2.6666667461395264 C4 1.3333333730697632 58;4 G4 12 58;0 C5 1.3333333730697632 15;2.6666667461395264 C5 1.3333333730697632 15;4 G5 12 15;0 C4 1.3333333730697632 15;2.6666667461395264 C4 1.3333333730697632 15;4 G4 12 15;0 C5 1.3333333730697632 57;2.6666667461395264 C5 1.3333333730697632 57;4 G5 12 57;0 C4 1.3333333730697632 57;2.6666667461395264 C4 1.3333333730697632 57;4 G4 12 57;0 C5 1.3333333730697632 51;2.6666667461395264 C5 1.3333333730697632 51;4 G5 12 51;0 C4 1.3333333730697632 51;2.6666667461395264 C4 1.3333333730697632 51;4 G4 12 51;14.666666984558105 A#3 1.3333333730697632 2;14.666666984558105 C#4 1.3333333730697632 2;14.666666984558105 A#3 1.3333333730697632 2;14.666666984558105 C#4 1.3333333730697632 2;14.666666984558105 A#3 1.3333333730697632 2;14.666666984558105 C#4 1.3333333730697632 2;14.666666984558105 A#3 1.3333333730697632 2;14.666666984558105 C#4 1.3333333730697632 2;14.666666984558105 A#3 1.3333333730697632 2;14.666666984558105 C#4 1.3333333730697632 2;14.666666984558105 A#3 1.3333333730697632 2;14.666666984558105 C#4 1.3333333730697632 2;16 G2 1.3333333730697632 2'
+button = Pin(48, Pin.IN, Pin.PULL_UP)
 # Initialize LCD (reynir 0x3f, annars 39)
 try:
     lcd = I2cLcd(i2c, 0x3f, 2, 16)
 except:
     lcd = I2cLcd(i2c, 39, 2, 16)
 
-# Takki tengdur við GPIO 0
-button = Pin(0, Pin.IN, Pin.PULL_UP)  # pull-up = óýtt = 1, ýtt = 0
+# Takki tengdur við GPIO 48
+  # pull-up = óýtt = 1, ýtt = 0
 
 # Previous button state til að greina einungis fallandi jaðarpunkt (press)
 prev_state = 1
@@ -37,5 +44,28 @@ while True:
         time.sleep(0.2)  # debounce
     prev_state = state
     time.sleep(0.01)
+    if Rs.value() == 0:   # Segull nærri
+        lcd.clear()
+        lcd.move_to(0,0)
+        lcd.putstr("thu vannst!")
+        lcd.move_to(0,1)
+
+        # Búum til nýtt music object fyrir hvert “play”
+        mySong = music(Song, pins=[buzzer_pin])
+        
+        while Rs.value() == 0:
+            #print("abc")
+            mySong.tick()
+            sleep(0.04)  # Smá delay til að keyra tick á réttum hraða
+        
+        mySong.stop()
+            
+    else:
+        sleep(0.05)  # Forðast of mikið CPU notkun þegar segullinn er ekki nálægur
+
+
+    
+    
+
 
 
